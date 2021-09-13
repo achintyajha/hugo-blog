@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Sep 2021 22:41:58 +0530</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://example.org/tags/about/</link>
+      <pubDate>Mon, 13 Sep 2021 22:41:58 +0530</pubDate>
+      
+      <guid>http://example.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>http://example.org/tags/photography/</link>
+      <pubDate>Mon, 13 Sep 2021 21:37:46 +0530</pubDate>
+      
+      <guid>http://example.org/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sales</title>
+      <link>http://example.org/tags/sales/</link>
+      <pubDate>Mon, 13 Sep 2021 21:37:46 +0530</pubDate>
+      
+      <guid>http://example.org/tags/sales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phone Shots</title>
+      <link>http://example.org/tags/phone-shots/</link>
+      <pubDate>Mon, 13 Sep 2021 21:27:18 +0530</pubDate>
+      
+      <guid>http://example.org/tags/phone-shots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
